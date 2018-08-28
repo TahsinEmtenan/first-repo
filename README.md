@@ -1,4 +1,5 @@
 # first-repo
 first repository
 
-- Tahsin Emtenan
+- Tahsin 
+- STAT 579
